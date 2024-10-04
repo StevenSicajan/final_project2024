@@ -1,3 +1,15 @@
+/*
+   Fundacion Kinal
+   Centro educativo tecnico laboral Kinal
+   Quinto perito
+   Quinto electronica
+   Codigo Tecnico: EB5AV 
+   Curso: Taller de electronica digital y reparacion de computadoras I
+   Proyecto: Proyecto final - Taller
+   Dev: Steven Josué Sicaján Pacheco
+   Fecha: 4 de octubre 
+*/
+
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 #include <Servo.h>
